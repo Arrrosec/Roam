@@ -45,7 +45,7 @@ const HowItWorks = () => {
           {/* Connector Line */}
           <div className="hidden md:block absolute top-10 left-1/3 right-1/3 h-px bg-gradient-to-r from-emerald-400/0 via-emerald-400/40 to-emerald-400/0" />
 
-          {steps.map((step, index) => (
+          {steps.map((step) => (
             <div
               key={step.number}
               className="relative flex flex-col items-center text-center group"
