@@ -17,7 +17,6 @@ Navbar · Hero · Social Proof · Features · How It Works · Destinations · Te
 
 ## Screenshots
 
-> Tip: Use [Cleanshot](https://cleanshot.com) or cmd+shift+4 on Mac to capture these.
 
 | Hero | Destinations |
 |------|-------------|
