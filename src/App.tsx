@@ -6,6 +6,8 @@ import HowItWorks from "./components/sections/HowItWorks";
 import Destinations from "./components/sections/DEstinations";
 import Testimonials from "./components/sections/Testimonials";
 import Pricing from "./components/sections/Pricing";
+import CTA from "./components/sections/CTA";
+import Footer from "./components/sections/Footer";
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
       <Destinations />
       <Testimonials />
       <Pricing />
+      <CTA />
+      <Footer />
     </div>
   );
 }
